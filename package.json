@@ -1,0 +1,8 @@
+{
+  "name": "AmazonScrapper",
+  "main": "app.js",
+  "dependencies": {
+    "cheerio": "^0.20.0",
+    "request": "^2.73.0"
+  }
+}
